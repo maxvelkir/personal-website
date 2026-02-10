@@ -1,0 +1,4 @@
+project_id     = "my-gcp-project-id"
+project_prefix = "personal-website"
+bucket_name    = "my-website-bucket"
+domain         = "example.com"
